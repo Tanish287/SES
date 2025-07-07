@@ -1,0 +1,9 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Spinning circle -->
+  <circle cx="25" cy="25" r="20" fill="none" stroke="#E5E7EB" stroke-width="4"/>
+  <circle cx="25" cy="25" r="20" fill="none" stroke="#3B82F6" stroke-width="4" stroke-linecap="round" stroke-dasharray="31.416" stroke-dashoffset="31.416">
+    <animateTransform attributeName="transform" type="rotate" dur="2s" values="0 25 25;360 25 25" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dasharray" dur="2s" values="0 31.416;15.708 15.708;0 31.416" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" dur="2s" values="0;-15.708;-31.416" repeatCount="indefinite"/>
+  </circle>
+</svg>

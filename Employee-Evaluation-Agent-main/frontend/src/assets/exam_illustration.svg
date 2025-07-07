@@ -1,0 +1,20 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#F8FAFC"/>
+  
+  <!-- Desk -->
+  <rect x="50" y="180" width="300" height="80" rx="8" fill="#8B5CF6"/>
+  <rect x="50" y="180" width="300" height="12" rx="6" fill="#7C3AED"/>
+  
+  <!-- Computer Screen -->
+  <rect x="120" y="100" width="160" height="100" rx="8" fill="#1F2937"/>
+  <rect x="130" y="110" width="140" height="80" rx="4" fill="#3B82F6"/>
+  
+  <!-- Screen Content - Exam Interface -->
+  <rect x="140" y="120" width="120" height="8" rx="2" fill="#FFFFFF" opacity="0.9"/>
+  <rect x="140" y="135" width="100" height="6" rx="1" fill="#FFFFFF" opacity="0.7"/>
+  <rect x="140" y="145" width="80" height="6" rx="1" fill="#FFFFFF" opacity="0.7"/>
+  
+  <!-- Multiple Choice Options -->
+  <circle cx="145" cy="160" r="3" fill="#FFFFFF"/>
+  <rect x="155" y="

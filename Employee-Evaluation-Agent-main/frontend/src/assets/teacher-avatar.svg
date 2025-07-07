@@ -1,0 +1,40 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#FEF3C7"/>
+  
+  <!-- Head -->
+  <circle cx="50" cy="38" r="16" fill="#FBBF24"/>
+  
+  <!-- Hair -->
+  <path d="M34 28 Q50 18 66 28 Q66 22 50 22 Q34 22 34 28 Z" fill="#92400E"/>
+  
+  <!-- Glasses -->
+  <circle cx="45" cy="36" r="6" fill="rgba(255,255,255,0.8)" stroke="#374151" stroke-width="1"/>
+  <circle cx="55" cy="36" r="6" fill="rgba(255,255,255,0.8)" stroke="#374151" stroke-width="1"/>
+  <line x1="51" y1="36" x2="49" y2="36" stroke="#374151" stroke-width="1"/>
+  
+  <!-- Eyes behind glasses -->
+  <circle cx="45" cy="36" r="2" fill="#374151"/>
+  <circle cx="55" cy="36" r="2" fill="#374151"/>
+  
+  <!-- Mouth -->
+  <path d="M46 42 Q50 45 54 42" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Body -->
+  <ellipse cx="50" cy="75" rx="24" ry="25" fill="#059669"/>
+  
+  <!-- Shirt -->
+  <rect x="35" y="60" width="30" height="35" rx="2" fill="#065F46"/>
+  
+  <!-- Tie -->
+  <polygon points="48,60 52,60 53,75 47,75" fill="#DC2626"/>
+  <rect x="48" y="60" width="4" height="4" fill="#B91C1C"/>
+  
+  <!-- Arms -->
+  <ellipse cx="26" cy="68" rx="9" ry="17" fill="#FBBF24"/>
+  <ellipse cx="74" cy="68" rx="9" ry="17" fill="#FBBF24"/>
+  
+  <!-- Pointer/Stick -->
+  <rect x="75" y="55" width="20" height="2" rx="1" fill="#92400E"/>
+  <circle cx="95" cy="56" r="1" fill="#92400E"/>
+</svg>

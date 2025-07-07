@@ -1,0 +1,53 @@
+<svg width="250" height="200" viewBox="0 0 250 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="250" height="200" fill="#FEF2F2"/>
+  
+  <!-- Computer screen -->
+  <rect x="75" y="60" width="100" height="70" rx="4" fill="#374151"/>
+  <rect x="80" y="65" width="90" height="60" rx="2" fill="#1F2937"/>
+  
+  <!-- Error screen -->
+  <rect x="85" y="70" width="80" height="50" rx="2" fill="#FEE2E2"/>
+  
+  <!-- Error icon -->
+  <circle cx="125" cy="85" r="8" fill="#EF4444"/>
+  <line x1="121" y1="81" x2="129" y2="89" stroke="white" stroke-width="2"/>
+  <line x1="129" y1="81" x2="121" y2="89" stroke="white" stroke-width="2"/>
+  
+  <!-- Error text lines -->
+  <rect x="90" y="100" width="30" height="2" rx="1" fill="#DC2626"/>
+  <rect x="90" y="105" width="40" height="2" rx="1" fill="#DC2626"/>
+  <rect x="90" y="110" width="25" height="2" rx="1" fill="#DC2626"/>
+  
+  <!-- Computer base -->
+  <rect x="115" y="130" width="20" height="10" rx="2" fill="#6B7280"/>
+  <rect x="105" y="140" width="40" height="5" rx="2" fill="#9CA3AF"/>
+  
+  <!-- Keyboard -->
+  <rect x="85" y="150" width="80" height="20" rx="3" fill="#D1D5DB"/>
+  <rect x="90" y="155" width="70" height="10" rx="2" fill="#F9FAFB"/>
+  
+  <!-- Warning triangles -->
+  <polygon points="40,40 45,30 50,40" fill="#F59E0B"/>
+  <circle cx="45" cy="35" r="1" fill="white"/>
+  <rect x="44.5" y="37" width="1" height="2" fill="white"/>
+  
+  <polygon points="200,50 205,40 210,50" fill="#F59E0B"/>
+  <circle cx="205" cy="45" r="1" fill="white"/>
+  <rect x="204.5" y="47" width="1" height="2" fill="white"/>
+  
+  <!-- Lightning bolt -->
+  <path d="M35 150 L40 140 L37 140 L42 130 L37 140 L40 140 L35 150" fill="#EF4444"/>
+  
+  <!-- Broken connection lines -->
+  <line x1="20" y1="170" x2="35" y2="170" stroke="#9CA3AF" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="45" y1="170" x2="60" y2="170" stroke="#9CA3AF" stroke-width="2" stroke-dasharray="3,3"/>
+  
+  <line x1="190" y1="170" x2="205" y2="170" stroke="#9CA3AF" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="215" y1="170" x2="230" y2="170" stroke="#9CA3AF" stroke-width="2" stroke-dasharray="3,3"/>
+  
+  <!-- Floating error symbols -->
+  <circle cx="60" cy="100" r="3" fill="#FCA5A5" opacity="0.7"/>
+  <circle cx="190" cy="120" r="4" fill="#FCA5A5" opacity="0.5"/>
+  <circle cx="30" cy="80" r="2" fill="#FCA5A5" opacity="0.6"/>
+</svg>
